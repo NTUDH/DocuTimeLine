@@ -12,6 +12,3 @@
     - others:
         - similar `https://github.com/skeate/Leaflet.timeline`
         - similar `https://github.com/hallahan/LeafletPlayback`
-3. **demo_2** - An simple demo showing how timeline works.
-    - references:
-        - similar `
